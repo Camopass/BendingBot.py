@@ -71,4 +71,4 @@ async def hi(ctx):
     embed.set_footer(text='Helloooo')
     await ctx.send(embed=embed)
 
-client.run('NzUwNDY4ODE2NTg0MTc5ODAy.X06-jA.JnNzuITfZc3009RIH6c79iBHOeo')
+client.run('[token here]')
